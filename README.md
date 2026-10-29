@@ -1,9 +1,17 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Muhammad%20Tayyab&fontSize=42" alt="Muhammad Tayyab" />
+</p>
+
 # Hi 👋, I'm Muhammad Tayyab
 
 <h3 align="center">Full-Stack Developer | BS Computer Science Student | Exploring AI</h3>
 
 <p align="center">
   <strong>Quaid-i-Azam University, Islamabad, Pakistan</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;BS+CS+Student+at+QAU;Building+with+AI,+Python+and+Django;Sharing+daily+coding+lessons" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -25,7 +33,19 @@ I'm a Full-Stack Developer and BS Computer Science student at **Quaid-i-Azam Uni
   <img src="https://skillicons.dev/icons?i=python,django,cpp,c,html,css,js,shopify,git,github,vscode" alt="Tech stack" />
 </p>
 
+---
+
+## 🚀 Featured Project
+
+- 🎨 **[portfilio](https://github.com/MuhammadTayab123/portfilio)** — My first project: a personal portfolio website built with CSS.
+
+---
+
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadTayab123&theme=radical" alt="Profile details" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadTayab123&theme=radical" alt="GitHub stats" />
