@@ -28,8 +28,8 @@ I'm a Full-Stack Developer and BS Computer Science student at **Quaid-i-Azam Uni
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadTayab123&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTayab123&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadTayab123&theme=radical" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadTayab123&theme=radical" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ I'm a Full-Stack Developer and BS Computer Science student at **Quaid-i-Azam Uni
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadTayab123&theme=radical" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=MuhammadTayab123" alt="Trophies" />
 </p>
 
 ## 🤝 Connect With Me
