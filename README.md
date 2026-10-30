@@ -30,7 +30,7 @@ I'm a Full-Stack Developer and BS Computer Science student at **Quaid-i-Azam Uni
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,cpp,c,html,css,js,shopify,git,github,vscode" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,cpp,c,html,css,js,git,github,vscode" alt="Tech stack" />
 </p>
 
 ---
