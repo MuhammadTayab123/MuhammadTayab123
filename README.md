@@ -37,7 +37,7 @@ I'm a Full-Stack Developer and BS Computer Science student at **Quaid-i-Azam Uni
 
 ## 🚀 Featured Project
 
-- 🎨 **[portfilio](https://github.com/MuhammadTayab123/portfilio)** — My first project: a personal portfolio website built with CSS.
+- 🎨 **[portfilio](https://github.com/MuhammadTayab123/portfilio)** — My first project: a personal portfolio website built with CSS. · [🌐 Live Demo](https://muhammadtayab123.github.io/portfilio/)
 
 ---
 
